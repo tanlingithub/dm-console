@@ -1,0 +1,19 @@
+{
+  "appKey": "DMOYLHLiIqt7xavRx4ESGoem6YcRETCj",
+  "appSecret": "wdJWp2IhacuTOVAMQkgR56muh5yQfqe2",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 483,
+  "name": "dm-console",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "dm管理端测试",
+  "git": {
+    "url": "https://github.com/tanlingithub/dm-console.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "l/jLHDSjn1UhVImSLREk3qZWfn0E93jaEYrhDTA1kKAleKFbIEheruEg8pDpNF2/IKTR1usDJgK/jnUAe6x5IA=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
